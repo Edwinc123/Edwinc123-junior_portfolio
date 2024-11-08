@@ -45,6 +45,19 @@ section {
 
 #portfolio {
     background-color: #fff;
+    border: #4b86fb  1px solid;
+	color: whitesmoke;
+  background-image:repeating-linear-gradient(#4b86fb, #efc3c7);
+	text-align: center;
+	background-color: rgba(146, 75, 251);
+	font-size: 0.9em;
+	height: 25px;
+	overflow: hidden;
+	width: 80%;
+	position:relative;
+	left: 10%;
+	transition: height 4s;
+	display:block;
   
 }
 
