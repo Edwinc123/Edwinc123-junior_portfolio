@@ -45,19 +45,19 @@ section {
 
 #portfolio {
     background-color: #fff;
-    border: #4b86fb  1px solid;
-	color: red;
-  background-image:repeating-linear-gradient(#4b86fb, #efc3c7);
-	text-align: center;
-	background-color: rgba(146, 75, 251);
-	font-size: 0.9em;
-	height: 25px;
+	border:2px #4b86fb solid;
+	position: relative;
+	top: 2px;
+	margin: 15px;
+	padding: 10px;
+	height: 700px;
 	overflow: hidden;
-	width: 80%;
-	position:relative;
-	left: 10%;
-	transition: height 4s;
-	display:block;
+	background-image: url(sky2.png);
+  box-shadow: 1px 3px 30px 1px #9adf9a;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
   
 }
 
