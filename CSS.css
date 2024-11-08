@@ -45,18 +45,7 @@ section {
 
 #portfolio {
     background-color: #fff;
-	border:2px #4b86fb solid;
-	position: relative;
-	top: 2px;
-	margin: 15px;
-	padding: 10px;
-	height: 950px;
-	overflow: hidden;
-	background-image: url(sky2.png);
-  box-shadow: 1px 3px 30px 1px #9adf9a;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
+
 }
   
 }
