@@ -40,34 +40,12 @@ section {
 
 }
 
-#about {
-    background-color: #eaeaea;
-}
 
 #portfolio {
-    background-color: #fff;
+    background-color: #333333;
 
 }
   
-
-.portfolio-item {
-    margin: 1rem 0;
-}
-
-#contact {
-    background-color: #eaeaea;
-}
-
-form {
-    display: flex;
-    flex-direction: column;
-    max-width: 600px;
-    margin: 0 auto;
-}
-
-form label {
-    margin: 10px 0 5px;
-}
 
 form input, form textarea {
     padding: 10px;
