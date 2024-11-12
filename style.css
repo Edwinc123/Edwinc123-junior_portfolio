@@ -39,3 +39,7 @@ body{
   opacity: 1;
   font-size: 1.52em;
 }
+h1, h2{
+  color:#c7bdbd;
+  text-align: center;
+}
